@@ -1,0 +1,4 @@
+Information: 100 50 20
+Math: 30 10
+Physician: 30
+Sport: 20 15
